@@ -8,6 +8,7 @@
 autor Tomasz Jureczko
 projekt : LZ78
 Funkcje wlasciwe - kompresji i dekompresji metoda LZ78
+wg krytycznej Pani zbyt d³ugie :)
 */
 
 
